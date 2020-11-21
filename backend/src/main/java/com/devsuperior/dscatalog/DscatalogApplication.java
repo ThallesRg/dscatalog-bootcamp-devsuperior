@@ -12,4 +12,3 @@ public class DscatalogApplication {
 
 }
 
-//Github Test, remove later.
